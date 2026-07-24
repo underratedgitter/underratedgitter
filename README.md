@@ -192,18 +192,15 @@
 
 ## 📊 GitHub Analytics & Activity
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=underratedgitter&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=underratedgitter&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="170" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=underratedgitter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Suraj's GitHub Stats" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=underratedgitter&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=underratedgitter&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="165" />
+</p>
 
 ---
 
