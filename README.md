@@ -1,63 +1,215 @@
-# 💫 Hi there, I'm Suraj! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12,30&height=180&section=header&text=SURAJ%20PATEL&fontSize=45&fontColor=ffffff&animation=twinkling" width="100%" />
+  
+  <br/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vcenter=true&width=650&lines=Cloud+%26+DevOps+Engineer;Automated+CI%2FCD+Pipelines+%2B+Containerization;GPU-Accelerated+AI+Systems+%26+RAG;Former+GDSC+Cloud+Lead+%7C+B.Tech+CSE" alt="Typing SVG" />
+  </a>
 
-I'm a passionate developer whose work lives at the intersection of **High-Performance Computing, Local AI, and Premium Web Aesthetics**. I don't just build applications—I focus on engineering solutions that are heavily optimized, fully autonomous, and visually striking. 
+  <br/><br/>
 
-Whether I'm writing C++ algorithms to solve complex data structures, leveraging CUDA to accelerate machine learning models, or crafting pixel-perfect, minimalist UIs inspired by modern design languages, my goal is always to deliver software that feels *alive* and *powerful*.
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-patel-619480309/)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sp9023156004@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/underratedgitter)
+  [![Location](https://img.shields.io/badge/Location-Bharuch%2C%20India-00C853?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+</div>
 
----
-
-### 🚀 Featured Engineering & AI Projects
-
-*Here’s a look at what I’ve been building recently:*
-
-- 🤖 **T.I.M. (Autonomous AI Assistant)**
-  *A fully autonomous, local AI agent running on Ollama.* Designed with "God Mode" capabilities, T.I.M. isn't just a passive chatbot—it has system-level access to execute terminal commands, manage windows, automate keyboard input, and connect to the internet, allowing it to perform complex computer tasks entirely on my behalf.
-
-- 🎓 **RAG-Based Intelligent Teaching Assistant**
-  *An AI tutor engineered for real-time responsiveness.* This project heavily leverages **CUDA/GPU optimization** to offload intense computational workloads like Whisper-based speech-to-text transcription and embedding generation. By maximizing hardware acceleration, the assistant provides immediate, high-fidelity responses.
-
-- 🏎️ **High-Performance Aesthetic Portfolios**
-  *Where engineering meets design.* I build cloud-integrated web applications focusing on premium aesthetics—specifically inspired by the bold, dark, and minimalist precision of the BMW M design language. These projects utilize modern frontend technologies combined with robust cloud backends (AWS/GCP) for scalable performance.
-
-- 📈 **Stealth Automation & Algorithms**
-  *Working smarter.* I've developed local Python-based automation systems to stealthily maintain developer streaks across distributed Git repositories without triggering bot-detection patterns. Additionally, I actively solve complex algorithmic constraints, such as computing optimal O(N) paths in binary tree marathon structures using Python and C++.
-
----
-
-### 💻 My Tech Arsenal
-
-I believe in choosing the right tool for the job. Here is my categorized tech stack:
-
-**Languages & Core Logic**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-**AI, Machine Learning & Data**  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
-**Cloud Architecture & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-
-**Databases & Servers**  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-
-**Development & Design Tools**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-
-**Gaming & Engines**  
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-
----
-
-### 📊 GitHub Activity & Stats
+<br/>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=underratedgitter&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=underratedgitter&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">⚡ Core Focus</h3>
+        <ul>
+          <li><b>Cloud Infrastructure & DevOps</b>: Designing multi-stage Docker builds, zero-downtime GitHub Actions pipelines, and cloud automated deployments.</li>
+          <li><b>High-Performance AI & Systems</b>: Building local RAG architectures accelerated with PyTorch & CUDA GPU pipelines.</li>
+          <li><b>Technical Mentorship</b>: Empowering developers through cloud workshops and community leadership.</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">📌 Snapshot</h3>
+        <ul>
+          <li>🎓 <b>Education</b>: B.Tech in CSE @ P.P Savani University (2023–2027)</li>
+          <li>☁️ <b>Certifications</b>: AWS Cloud Foundations, IBM ML, NPTEL</li>
+          <li>🚀 <b>GDSC Leadership</b>: Led 25+ cloud labs & 40+ coding sessions</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-patel-619480309/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sp9023156004@gmail.com) 
+## 🚀 Featured DevOps & Engineering Projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ CI/CD Pipeline Automation</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Deployment-%3C5--Mins-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Docker-Multi--Stage-blue?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>Containerized REST API</b>: Multi-stage Alpine Dockerfile (non-root user, optimized layer caching) for Node.js/Express.</li>
+        <li><b>3-Stage Pipeline</b>: GitHub Actions workflow (<code>Test</code> → <code>Docker Hub Push</code> → <code>OCI SSH Deploy</code>).</li>
+        <li><b>Security & Rollbacks</b>: Encrypted Secrets integration and Git commit SHA image tagging for instant rollbacks.</li>
+      </ul>
+      <hr/>
+      <p align="center">
+        <code>Docker</code> · <code>GitHub Actions</code> · <code>Jest</code> · <code>Oracle Cloud (OCI)</code> · <code>Node.js</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 RAG-Based AI Teaching Assistant</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/GPU-Accelerated-76B900?style=flat-square" />
+        <img src="https://img.shields.io/badge/Processing-15x%20Faster-orange?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>End-to-End RAG Engine</b>: Converts lecture video into interactive Q&A using speech transcription & vector search.</li>
+        <li><b>CUDA Optimization</b>: Cut processing time from <b>5 mins (CPU) to 20 secs (GPU)</b> via batch chunking & parallel processing.</li>
+        <li><b>Sub-second Search</b>: Real-time query responses across 1,000+ text chunks with drag-and-drop video upload.</li>
+      </ul>
+      <hr/>
+      <p align="center">
+        <code>Python</code> · <code>PyTorch</code> · <code>CUDA</code> · <code>Ollama</code> · <code>FFmpeg</code> · <code>Scikit-learn</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>🌐 View Additional Web Projects: Sundown Studios Website</b></summary>
+  <br/>
+  <ul>
+    <li>Engineered a highly responsive landing page with custom typography, smooth Locomotive scrolling, Swiper.js carousels, and an animated navigation splash loader.</li>
+    <li><b>Tech Stack</b>: <code>HTML5</code> · <code>CSS3</code> · <code>JavaScript</code> · <code>Locomotive Scroll</code> · <code>Swiper.js</code></li>
+  </ul>
+</details>
+
+---
+
+## 💼 Experience & Leadership
+
+<table>
+  <tr>
+    <td width="20%"><b>Aug 2023 – Jan 2024</b></td>
+    <td width="80%">
+      <b>Cloud Event Manager — Google Developer Student Club (GDSC, PPSU)</b><br/>
+      • Facilitated <b>25+ hands-on cloud labs</b> and <b>40+ coding sessions</b> on Google Cloud Platform.<br/>
+      • Mentored a 12-member team building & deploying 8 applications on GCP.<br/>
+      • Led technical cloud initiatives resulting in the university achieving <b>#1 rank in South Gujarat</b>.
+    </td>
+  </tr>
+  <tr>
+    <td><b>Oct 2023</b></td>
+    <td>
+      <b>Data Analytics Simulation — Accenture North America</b> *(Freelance)*<br/>
+      • Cleaned, modeled, and analyzed 7 complex datasets to drive data-driven strategies for social media client campaigns.
+    </td>
+  </tr>
+  <tr>
+    <td><b>Feb 2026</b></td>
+    <td>
+      <b>Open Source Contributor — Bindu</b><br/>
+      • Refactored Python exception handling for maintainability and authored API setup documentation for OpenRouter & OpenAI models.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📜 Certifications & Education
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        🎓 <b>Education</b>
+        <ul>
+          <li><b>B.Tech in Computer Science & Engineering</b><br/>P.P Savani University *(2023 – 2027)*</li>
+        </ul>
+      </td>
+      <td width="50%">
+        🏆 <b>Certifications</b>
+        <ul>
+          <li>☁️ <b>AWS</b> — Cloud Foundations</li>
+          <li>🧠 <b>IBM</b> — Machine Learning for Data Science</li>
+          <li>📊 <b>NPTEL</b> — Analytical Tools & Affective Computing</li>
+          <li>📈 <b>Saylor</b> — Business Intelligence & Analytics</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 💻 Tech Arsenal
+
+<div align="center">
+  <h3>☁️ Cloud & DevOps</h3>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+  <br/>
+
+  <h3>⚡ Languages & Back-End</h3>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+
+  <br/>
+
+  <h3>🤖 AI, ML & Hardware Acceleration</h3>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+
+  <br/>
+
+  <h3>🗄️ Databases & Developer Tools</h3>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+</div>
+
+---
+
+## 📊 GitHub Analytics & Activity
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=underratedgitter&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=underratedgitter&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="170" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <i>"Automating deployment pipelines & accelerating intelligent systems."</i>
+  <br/><br/>
+  <b>© Suraj Patel · Built with 💻 & ⚡</b>
+</div>
 
