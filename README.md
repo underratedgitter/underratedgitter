@@ -51,15 +51,16 @@
       <p align="center">
         <img src="https://img.shields.io/badge/Deployment-%3C5--Mins-success?style=flat-square" />
         <img src="https://img.shields.io/badge/Docker-Multi--Stage-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Monitoring-Prometheus%20%2B%20Grafana-E6522C?style=flat-square" />
       </p>
       <ul>
         <li><b>Containerized REST API</b>: Multi-stage Alpine Dockerfile (non-root user, optimized layer caching) for Node.js/Express.</li>
-        <li><b>3-Stage Pipeline</b>: GitHub Actions workflow (<code>Test</code> → <code>Docker Hub Push</code> → <code>OCI SSH Deploy</code>).</li>
-        <li><b>Security & Rollbacks</b>: Encrypted Secrets integration and Git commit SHA image tagging for instant rollbacks.</li>
+        <li><b>3-Stage Pipeline</b>: GitHub Actions workflow (<code>Test</code> → <code>Docker Hub Push</code> → <code>Cloud Deploy</code>) in under 5 minutes.</li>
+        <li><b>Full Observability</b>: Prometheus metrics scraping + Grafana dashboards with 5 custom alert rules (latency, errors, heap, event loop).</li>
       </ul>
       <hr/>
       <p align="center">
-        <code>Docker</code> · <code>GitHub Actions</code> · <code>Jest</code> · <code>Oracle Cloud (OCI)</code> · <code>Node.js</code>
+        <code>Docker</code> · <code>GitHub Actions</code> · <code>Jest</code> · <code>Prometheus</code> · <code>Grafana</code> · <code>Node.js</code>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -154,6 +155,8 @@
   <h3>☁️ Cloud & DevOps</h3>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
