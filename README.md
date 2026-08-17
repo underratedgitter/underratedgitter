@@ -104,9 +104,9 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=underratedgitter&theme=tokyo-night&hide_border=true&bg_color=00000000)
 
-| Top Languages | GitHub Streak |
-|:---:|:---:|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=underratedgitter&theme=tokyonight&hide_border=true&layout=compact) | ![Streak](https://streak-stats.demolab.com/?user=underratedgitter&theme=tokyonight&hide_border=true) |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=underratedgitter&theme=tokyonight&hide_border=true&layout=compact" height="160"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=underratedgitter&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
