@@ -102,11 +102,11 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=underratedgitter&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=underratedgitter&theme=tokyo-night&hide_border=true&bg_color=00000000)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=underratedgitter&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=underratedgitter&theme=tokyonight&hide_border=true" height="165"/>
+| Top Languages | GitHub Streak |
+|:---:|:---:|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=underratedgitter&theme=tokyonight&hide_border=true&layout=compact) | ![Streak](https://streak-stats.demolab.com/?user=underratedgitter&theme=tokyonight&hide_border=true) |
 
 </div>
 
@@ -116,8 +116,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,100:00F0FF&height=120&section=footer" width="100%" />
 
-> *"Automating deployment pipelines & accelerating intelligent systems."*
+<p><em>"Automating deployment pipelines &amp; accelerating intelligent systems."</em></p>
 
-**© Suraj Patel · Built with 💻 & ⚡**
+<p><b>© Suraj Patel · Built with 💻 &amp; ⚡</b></p>
 
 </div>
