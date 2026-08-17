@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7B2FFF&height=200&section=header&text=Suraj%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=58&descSize=18" width="100%" />
+<h1>👋 Hi, I'm Suraj Patel</h1>
+<h3>☁️ Cloud & DevOps Engineer &nbsp;|&nbsp; 🤖 AI Systems Builder</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;Automated+CI%2FCD+Pipelines+%2B+Containerization;GPU-Accelerated+AI+Systems+%26+RAG;Former+GDSC+Cloud+Lead+%7C+B.Tech+CSE)](https://git.io/typing-svg)
 
@@ -113,8 +114,6 @@
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,100:00F0FF&height=120&section=footer" width="100%" />
 
 <p><em>"Automating deployment pipelines &amp; accelerating intelligent systems."</em></p>
 
