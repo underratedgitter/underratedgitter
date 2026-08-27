@@ -1,205 +1,113 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:533483&height=220&section=header&text=Suraj%20Patel&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20%7C%20AI%20Systems%20Builder&descSize=22&descColor=a8dadc&descAlignY=60&animation=twinkling" width="100%"/>
+<h1>👋 Hi, I'm Suraj Patel</h1>
+<h3>☁️ Cloud & DevOps Engineer &nbsp;|&nbsp; 🤖 AI Systems Builder</h3>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;GPU-Accelerated+AI+%26+RAG+Systems;Automated+CI%2FCD+Pipelines;Docker+%7C+GitHub+Actions+%7C+AWS+%7C+GCP;Former+GDSC+Cloud+Lead+%7C+B.Tech+CSE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;Automated+CI%2FCD+Pipelines+%2B+Containerization;GPU-Accelerated+AI+Systems+%26+RAG;Former+GDSC+Cloud+Lead+%7C+B.Tech+CSE)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-patel-619480309/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sp9023156004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sp9023156004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/underratedgitter)
-[![Location](https://img.shields.io/badge/Bharuch%2C_Gujarat-00C853?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Profile Views](https://komarev.com/ghpvc/?username=underratedgitter&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)](https://github.com/underratedgitter)
+[![Location](https://img.shields.io/badge/%F0%9F%93%8D_Bharuch,_India-00C853?style=for-the-badge&logoColor=white)](#)
 
 </div>
 
 ---
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer at work"/>
+## 🎯 Core Focus
 
-### 👋 About Me
-
-```yaml
-name       : Suraj Patel
-role       : Cloud & DevOps Engineer | AI Systems Builder
-location   : Bharuch, Gujarat, India
-education  : B.Tech CSE @ P.P. Savani University (2023–2027)
-building   :
-  - GPU-accelerated RAG pipelines (CUDA + PyTorch)
-  - Zero-downtime CI/CD automation
-  - Observability with Prometheus & Grafana
-win        : 5 min → 20 sec AI processing via CUDA batch chunking
-open_to    : Internships | Open Source | Freelance DevOps & AI
-```
-
-<br clear="right"/>
-
----
-
-## 🎯 What I Do
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Cloud & DevOps
-Multi-stage Docker builds, zero-downtime GitHub Actions pipelines across **AWS**, **GCP** & **Oracle Cloud**.
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI & GPU Systems
-Local RAG architectures with **PyTorch + CUDA** — sub-second vector search across 1,000+ chunks.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔁 Pipeline Automation
-End-to-end CI/CD: `Test → Build → Push → Deploy` in **under 5 minutes** with full rollback.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Technical Mentorship
-Former **GDSC Cloud Lead** — 25+ labs, 12-member team, PPSU **#1 in South Gujarat**.
-
-</td>
-</tr>
-</table>
+- ☁️ **Cloud Infrastructure & DevOps** — Multi‑stage Docker builds, zero‑downtime GitHub Actions pipelines, and automated cloud deployments.
+- 🧠 **High‑Performance AI & Systems** — Local RAG architectures accelerated with PyTorch & CUDA GPU pipelines.
+- 🌱 **Technical Mentorship** — Empowering developers through cloud workshops and community leadership.
 
 ---
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>⚙️ CI/CD Pipeline Automation System</b> — click to expand</summary>
-<br/>
+### ⚙️ CI/CD Pipeline Automation
+- **Containerized REST API** using a multi‑stage Alpine Dockerfile (non‑root user, optimized layer caching) for Node.js/Express.
+- **3‑Stage Pipeline** (GitHub Actions: `Test` → `Docker Hub Push` → `Cloud Deploy`) completing in **under 5 minutes**.
+- **Full Observability**: Prometheus metrics scraping + Grafana dashboards with 5 custom alert rules (latency, errors, heap, event loop).
 
-| Layer | Details |
-|-------|---------|
-| 🐳 **Container** | Multi-stage Alpine Dockerfile — non-root user, optimized caching for Node.js/Express |
-| 🔄 **Pipeline** | 3-Stage GitHub Actions: `Test → Docker Hub → Cloud Deploy` in **< 5 min** |
-| 📊 **Observability** | Prometheus + Grafana with **5 custom alert rules** |
-| 🏗️ **Deploy** | Zero-downtime rolling deployments with health-check gates & auto-rollback |
-
-</details>
-
-<details>
-<summary><b>🤖 RAG-Based AI Teaching Assistant</b> — click to expand</summary>
-<br/>
-
-| Layer | Details |
-|-------|---------|
-| 🎙️ **Ingestion** | Speech-to-text → vector chunking → FAISS index |
-| ⚡ **Speed** | CUDA batch: **5 min (CPU) → 20 sec (GPU)** — **15× speedup** |
-| 🔍 **Retrieval** | Sub-second semantic search across **1,000+ text chunks** |
-| 🖥️ **UX** | Drag-and-drop video upload with real-time Q&A interface |
-
-</details>
+### 🤖 RAG‑Based AI Teaching Assistant
+- **End‑to‑End RAG Engine** converting lecture video into interactive Q&A via speech transcription & vector search.
+- **CUDA Optimization**: Processing time cut from **5 mins (CPU) → 20 secs (GPU)** via batch chunking & parallel processing.
+- **Sub‑second Search**: Real‑time query responses across 1,000+ text chunks with drag‑and‑drop video upload.
 
 ---
 
 ## 💼 Experience & Leadership
 
-**🎙️ Cloud Event Manager — GDSC, PPSU** &nbsp; `Aug 2023 – Jan 2024`
-- 🏆 Facilitated **25+ cloud labs** & **40+ coding sessions** on Google Cloud Platform
-- 👥 Mentored a **12-member** team that shipped **8 GCP applications**
-- 🥇 PPSU achieved **#1 rank in South Gujarat**
+**🎙️ Cloud Event Manager — GDSC, PPSU** *(Aug 2023 – Jan 2024)*
+- Facilitated **25+** hands‑on cloud labs and **40+** coding sessions on Google Cloud Platform.
+- Mentored a 12‑member team building & deploying 8 applications on GCP.
+- Led technical initiatives that helped the university achieve **#1 rank in South Gujarat**.
 
-**📊 Data Analytics Simulation — Accenture North America** &nbsp; `Oct 2023`
-- Modeled & analyzed **7 complex datasets** for social-media campaign strategies
+**📊 Data Analytics Simulation — Accenture North America** *(Oct 2023, Freelance)*
+- Cleaned, modeled, and analyzed 7 complex datasets to drive data‑driven strategies for social‑media client campaigns.
 
-**🔧 Open Source Contributor — Bindu** &nbsp; `Feb 2026`
-- Refactored Python exception handling & authored API docs for **OpenRouter & OpenAI**
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**☁️ Cloud & Infrastructure**
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](#)
-[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](#)
-[![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](#)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](#)
-[![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](#)
-[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](#)
-[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)](#)
-
-**💻 Languages**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#)
-[![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](#)
-
-**🤖 AI / ML & GPU**
-
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](#)
-[![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)](#)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](#)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](#)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](#)
-
-**🗄️ Databases & Tools**
-
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](#)
-[![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)](#)
-
-</div>
+**🔧 Open Source Contributor — Bindu** *(Feb 2026)*
+- Refactored Python exception handling for maintainability and authored API setup documentation for OpenRouter & OpenAI models.
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Certifications & Education
 
-| | Credential | Issuer | Year |
-|--|-----------|--------|------|
-| 🎓 | **B.Tech — Computer Science & Engineering** | P.P. Savani University | 2023–2027 |
-| ☁️ | AWS Cloud Foundations | Amazon Web Services | 2023 |
-| 🧠 | Machine Learning for Data Science | IBM | 2023 |
-| 📊 | Analytical Tools & Affective Computing | NPTEL | 2024 |
-| 📈 | Business Intelligence & Analytics | Saylor Academy | 2024 |
+- 🎓 **B.Tech in Computer Science & Engineering** — P.P. Savani University *(2023 – 2027)*
+- ☁️ AWS Cloud Foundations
+- 🧠 IBM Machine Learning for Data Science
+- 📊 NPTEL Analytical Tools & Affective Computing
+- 📈 Saylor Business Intelligence & Analytics
 
 ---
 
-## 📊 GitHub & Impact Stats
+## 🛠️ Tech Arsenal
+
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 💻 Languages & Back‑End
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🤖 AI, ML & Hardware Acceleration
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🗄️ Databases & Developer Tools
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/underratedgitter?style=for-the-badge&logo=github&label=Followers&color=238636&logoColor=white)](https://github.com/underratedgitter?tab=followers)
-[![Stars](https://img.shields.io/github/stars/underratedgitter?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total+Stars&color=f9d71c&logoColor=white)](https://github.com/underratedgitter)
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Funderratedgitter&query=%24.public_repos&style=for-the-badge&logo=github&label=Public+Repos&color=6e40c9&logoColor=white)](https://github.com/underratedgitter?tab=repositories)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=underratedgitter&theme=tokyo-night&hide_border=true&bg_color=00000000)
 
-</div>
-
-<br/>
-
-<div align="center">
-
-### ⚡ Key Achievements
-
-| 🏆 Metric | 📈 Result |
-|-----------|----------|
-| 🚀 AI Processing Speed | **5 min → 20 sec** (15× speedup via CUDA) |
-| 🔄 CI/CD Pipeline Time | **< 5 minutes** end-to-end |
-| ☁️ Cloud Labs Conducted | **25+** hands-on sessions |
-| 👥 Developers Mentored | **12-member** team, **8 GCP apps** shipped |
-| 🥇 University Ranking | **#1 in South Gujarat** (GDSC initiatives) |
-| 🔭 Alert Rules Built | **5 custom** Grafana alerting rules |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=underratedgitter&theme=tokyonight&hide_border=true&layout=compact" height="160"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=underratedgitter&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
@@ -207,10 +115,8 @@ Former **GDSC Cloud Lead** — 25+ labs, 12-member team, PPSU **#1 in South Guja
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:533483,50:0f3460,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
+<p><em>"Automating deployment pipelines &amp; accelerating intelligent systems."</em></p>
 
-*"Automating deployment pipelines & accelerating intelligent systems — one commit at a time."*
-
-**© 2026 Suraj Patel &nbsp;·&nbsp; Built with 💻 & ⚡**
+<p><b>© Suraj Patel · Built with 💻 &amp; ⚡</b></p>
 
 </div>
