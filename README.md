@@ -1,14 +1,13 @@
 <div align="center">
 
-<!-- Header Banner - capsule-render (verified working) -->
+<!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:533483&height=220&section=header&text=Suraj%20Patel&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20%7C%20AI%20Systems%20Builder&descSize=22&descColor=a8dadc&descAlignY=60&animation=twinkling" width="100%"/>
 
-<!-- Typing SVG - demolab (verified working) -->
+<!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;GPU-Accelerated+AI+%26+RAG+Systems;Automated+CI%2FCD+Pipelines;Docker+%7C+GitHub+Actions+%7C+AWS+%7C+GCP;Former+GDSC+Cloud+Lead+%7C+B.Tech+CSE)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social Badges - shields.io (verified working) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-patel-619480309/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sp9023156004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/underratedgitter)
@@ -19,7 +18,7 @@
 
 ---
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding GIF"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer at work"/>
 
 ### 👋 About Me
 
@@ -47,7 +46,7 @@ open_to    : Internships | Open Source | Freelance DevOps & AI
 <td width="50%" valign="top">
 
 ### ☁️ Cloud & DevOps
-Multi-stage Docker builds, zero-downtime GitHub Actions pipelines, deployments across **AWS**, **GCP** & **Oracle Cloud**.
+Multi-stage Docker builds, zero-downtime GitHub Actions pipelines across **AWS**, **GCP** & **Oracle Cloud**.
 
 </td>
 <td width="50%" valign="top">
@@ -61,13 +60,13 @@ Local RAG architectures with **PyTorch + CUDA** — sub-second vector search acr
 <td width="50%" valign="top">
 
 ### 🔁 Pipeline Automation
-End-to-end CI/CD `Test → Build → Push → Deploy` in **under 5 minutes** with full rollback.
+End-to-end CI/CD: `Test → Build → Push → Deploy` in **under 5 minutes** with full rollback.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌱 Technical Mentorship
-Former **GDSC Cloud Lead** — 25+ labs, 12-member team, PPSU ranked **#1 in South Gujarat**.
+Former **GDSC Cloud Lead** — 25+ labs, 12-member team, PPSU **#1 in South Gujarat**.
 
 </td>
 </tr>
@@ -83,9 +82,9 @@ Former **GDSC Cloud Lead** — 25+ labs, 12-member team, PPSU ranked **#1 in Sou
 
 | Layer | Details |
 |-------|---------|
-| 🐳 **Container** | Multi-stage Alpine Dockerfile — non-root user, optimized layer caching for Node.js/Express |
+| 🐳 **Container** | Multi-stage Alpine Dockerfile — non-root user, optimized caching for Node.js/Express |
 | 🔄 **Pipeline** | 3-Stage GitHub Actions: `Test → Docker Hub → Cloud Deploy` in **< 5 min** |
-| 📊 **Observability** | Prometheus + Grafana with **5 custom alert rules** (latency · errors · heap · event loop) |
+| 📊 **Observability** | Prometheus + Grafana with **5 custom alert rules** |
 | 🏗️ **Deploy** | Zero-downtime rolling deployments with health-check gates & auto-rollback |
 
 </details>
@@ -110,10 +109,10 @@ Former **GDSC Cloud Lead** — 25+ labs, 12-member team, PPSU ranked **#1 in Sou
 **🎙️ Cloud Event Manager — GDSC, PPSU** &nbsp; `Aug 2023 – Jan 2024`
 - 🏆 Facilitated **25+ cloud labs** & **40+ coding sessions** on Google Cloud Platform
 - 👥 Mentored a **12-member** team that shipped **8 GCP applications**
-- 🥇 PPSU reached **#1 rank in South Gujarat**
+- 🥇 PPSU achieved **#1 rank in South Gujarat**
 
 **📊 Data Analytics Simulation — Accenture North America** &nbsp; `Oct 2023`
-- Modeled & analyzed **7 datasets** for social-media campaign strategies
+- Modeled & analyzed **7 complex datasets** for social-media campaign strategies
 
 **🔧 Open Source Contributor — Bindu** &nbsp; `Feb 2026`
 - Refactored Python exception handling & authored API docs for **OpenRouter & OpenAI**
@@ -126,13 +125,13 @@ Former **GDSC Cloud Lead** — 25+ labs, 12-member team, PPSU ranked **#1 in Sou
 
 **☁️ Cloud & Infrastructure**
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](#)
+[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](#)
 [![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://linux.org)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](#)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](#)
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](#)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)](#)
@@ -177,28 +176,30 @@ Former **GDSC Cloud Lead** — 25+ labs, 12-member team, PPSU ranked **#1 in Sou
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & Impact Stats
 
 <div align="center">
 
-<!-- shields.io GitHub stats — 100% reliable, direct GitHub API -->
-[![Followers](https://img.shields.io/github/followers/underratedgitter?style=for-the-badge&logo=github&label=Followers&color=236ad3)](https://github.com/underratedgitter?tab=followers)
-[![Stars](https://img.shields.io/github/stars/underratedgitter?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars&color=f9d71c)](https://github.com/underratedgitter)
+[![Followers](https://img.shields.io/github/followers/underratedgitter?style=for-the-badge&logo=github&label=Followers&color=238636&logoColor=white)](https://github.com/underratedgitter?tab=followers)
+[![Stars](https://img.shields.io/github/stars/underratedgitter?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total+Stars&color=f9d71c&logoColor=white)](https://github.com/underratedgitter)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Funderratedgitter&query=%24.public_repos&style=for-the-badge&logo=github&label=Public+Repos&color=6e40c9&logoColor=white)](https://github.com/underratedgitter?tab=repositories)
+
+</div>
 
 <br/>
 
-<!-- GitHub Readme Stats — with long cache to avoid rate limits -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=underratedgitter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=underratedgitter&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400)
+### ⚡ Key Achievements
 
-<br/>
-
-![Streak](https://streak-stats.demolab.com?user=underratedgitter&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=underratedgitter&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400)
+| 🏆 Metric | 📈 Result |
+|-----------|----------|
+| 🚀 AI Processing Speed | **5 min → 20 sec** (15× speedup via CUDA) |
+| 🔄 CI/CD Pipeline Time | **< 5 minutes** end-to-end |
+| ☁️ Cloud Labs Conducted | **25+** hands-on sessions |
+| 👥 Developers Mentored | **12-member** team, **8 GCP apps** shipped |
+| 🥇 University Ranking | **#1 in South Gujarat** (GDSC initiatives) |
+| 🔭 Alert Rules Built | **5 custom** Grafana alerting rules |
 
 </div>
 
