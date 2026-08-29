@@ -67,8 +67,8 @@ Ran 25+ hands-on cloud labs and 40+ coding sessions on GCP. Mentored a team of 1
 **Data Analytics Simulation — Accenture North America** · Oct 2023
 Cleaned and modelled seven datasets to shape social-media campaign strategy for a client brief.
 
-**Open source — Bindu** · Feb 2026
-Refactored Python exception handling for maintainability; wrote the API setup docs for OpenRouter and OpenAI models.
+**Open source — [Bindu](https://github.com/GetBindu/Bindu)** · 2026
+Merged a refactor replacing broad exception catches with specific types across the codebase, and a documentation fix. Bindu is the identity, communication and payments layer for AI agents — 9.3k stars, 440 forks.
 
 ---
 
