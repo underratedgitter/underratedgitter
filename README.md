@@ -4,7 +4,7 @@
   <img alt="Suraj Patel — cloud and devops, AI systems, observability" src="assets/banner-dark.svg" width="100%">
 </picture>
 
-**Software & Solutions Architect** at D-Tech Solution Integrator, Bharuch — I build custom software for manufacturing plants, where a system going down means a production line stopping.
+**Software & Solutions Architect** at [D-Tech Solution Integrators](https://d-tech-live-database.odoo.com), Bharuch — I build custom software for manufacturing plants, where a system going down means a production line stopping.
 
 That shapes what I build outside work too: the pipeline that ships the code, the telemetry that tells you it broke, and the system that works out why.
 
@@ -51,13 +51,14 @@ Everything in it is tested before it lands, and documented well enough to be use
 | **Cloud & DevOps** | Docker · GitHub Actions · Prometheus · Grafana · AWS · GCP · Oracle Cloud · Linux |
 | **Languages** | Python · JavaScript · Node.js · C++ · C |
 | **AI & acceleration** | PyTorch · CUDA · scikit-learn · pandas · NumPy |
-| **Data & tooling** | MySQL · MongoDB · Redis · Git · Postman · Jest |
+| **Enterprise & data** | Odoo · MySQL · MongoDB · Redis |
+| **Tooling** | Git · Postman · Jest |
 
 ---
 
 ## Experience
 
-**Software & Solutions Architect — D-Tech Solution Integrator, Bharuch** · current
+**Software & Solutions Architect — [D-Tech Solution Integrators](https://d-tech-live-database.odoo.com), Bharuch** · current
 Custom software for manufacturing plants across the Bharuch–Ankleshwar industrial belt. Systems that have to hold up on a shop floor, where downtime is counted in lost production rather than error rates.
 
 **Cloud Event Manager — GDSC, P.P. Savani University** · Aug 2023 – Jan 2024
