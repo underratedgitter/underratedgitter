@@ -22,9 +22,9 @@ Runs fully offline: local fallback mode completes the whole detect → investiga
 `Python` · observability · incident response · LLM tool-use
 
 ### [CI/CD Pipeline Automation](https://github.com/underratedgitter/CI-CD-Pipeline-Automation-with-Docker-Cloud-Deployment) · push to cloud in under five minutes
-A containerised Node/Express API on a multi-stage Alpine image — non-root user, layer caching tuned for rebuild speed. Three-stage GitHub Actions pipeline: test → push to Docker Hub → deploy.
+A containerised Node/Express API on a multi-stage Alpine image — non-root user, layer caching tuned for rebuild speed. Four-stage GitHub Actions pipeline: lint and test → security audit → build, scan and push → deploy. A pull request runs the gates and stops there.
 
-Prometheus scraping with Grafana dashboards and five alert rules that fire on the things that actually page you: latency, error rate, heap growth, event-loop lag.
+Prometheus scraping with Grafana dashboards and eight alert rules that fire on the things that actually page you — latency, error rate, heap growth, event-loop lag, and traffic falling off a cliff. Trivy scans every image before it ships.
 
 `Docker` · `GitHub Actions` · `Prometheus` · `Grafana`
 
