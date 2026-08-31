@@ -57,7 +57,7 @@ The README says plainly which directories are still stubs. A knowledge base that
 
 |  |  |
 |---|---|
-| **Cloud & DevOps** | Docker · Kubernetes · Helm · Terraform · GitHub Actions · Prometheus · Grafana · AWS · GCP · Oracle Cloud · Linux |
+| **Cloud & DevOps** | Docker · Kubernetes · Helm · Terraform · GitHub Actions · Prometheus · Grafana · AWS · GCP · Linux |
 | **Languages** | Python · JavaScript · Node.js · C++ · C |
 | **AI & acceleration** | PyTorch · CUDA · scikit-learn · pandas · NumPy |
 | **Enterprise & data** | Odoo · MySQL · MongoDB · Redis |
