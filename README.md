@@ -44,7 +44,7 @@ Batch chunking and parallel processing on CUDA took a run from **five minutes on
 
 `PyTorch` · `CUDA` · vector search · speech-to-text
 
-### [DevOps Lab](https://github.com/underratedgitter/devops-lab) · working notes, honest about their edges
+### DevOps Lab · working notes, honest about their edges
 Sixteen guides with real depth — Linux commands and permissions, TCP/IP, Kubernetes concepts, Terraform state, Dockerfile practices, observability — five of them written out of the pipeline and Aegis below, so the examples are code that runs.
 
 The README says plainly which directories are still stubs. A knowledge base that promises thirty topics and delivers sixteen wastes your time on the other fourteen.
