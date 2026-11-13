@@ -40,9 +40,9 @@ A Helm chart runs the same service on Kubernetes — HPA, disruption budget, net
 ### [RAG Teaching Assistant](https://github.com/underratedgitter/RAG-teaching-assistant) · lecture video in, answers with timestamps out
 Drop in a lecture recording, ask a question, get the answer *and* the exact moment it was said. Transcription feeds a vector index; queries return in under a second across 1,000+ chunks.
 
-Batch chunking and parallel processing on CUDA took a run from **five minutes on CPU to twenty seconds on GPU**.
+Runs fully local with faster-whisper (CTranslate2) and Ollama — no API key, no upload, and no 2 GB PyTorch install. Int8 quantization, greedy decoding and VAD took transcription to roughly **18–27× realtime on a plain CPU**, with float16 on CUDA when a GPU is present.
 
-`PyTorch` · `CUDA` · vector search · speech-to-text
+`faster-whisper` · `Ollama` · `CUDA` · vector search · speech-to-text
 
 ---
 
