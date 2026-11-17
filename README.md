@@ -6,22 +6,28 @@
   </picture>
 </a>
 
-**[thepatelsuraj.dev](https://thepatelsuraj.dev)** &nbsp;·&nbsp; [Résumé](https://thepatelsuraj.dev/Suraj_Patel_Resume.pdf) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/thepatelsuraj) &nbsp;·&nbsp; [Email](mailto:23se02cs076@gmail.com) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/sp9023156004)
+<p align="center">
+  <a href="https://thepatelsuraj.dev"><b>thepatelsuraj.dev</b></a> &nbsp;·&nbsp;
+  <a href="https://thepatelsuraj.dev/Suraj_Patel_Resume.pdf">Résumé</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/thepatelsuraj">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:23se02cs076@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/sp9023156004">LeetCode</a>
+</p>
 
 Final-year B.Tech CSE student and DevOps/SRE intern who owns **two production systems end to end**: self-managed infrastructure, CI/CD with automatic rollback, security hardening, and encrypted backup and recovery. Outside work I build the other half of the stack — the pipeline that ships the code, the telemetry that tells you it broke, and the system that works out why.
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-receipts-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/section-receipts-light.svg">
-  <img alt="00 — What the work shows" src="assets/section-receipts-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-numbers-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-numbers-light.svg">
+  <img alt="01 — By the numbers" src="assets/section-numbers-dark.svg" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/receipts-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/receipts-light.svg">
-  <img alt="Two production systems; every deploy health-checked and rolled back on failure. Every automated fix is bounded, allowlisted, and needs a named human approver. Push to live in under five minutes, with zero failed requests during rollouts. Not one long-lived AWS key. 675+ automated tests gate every release. 25+ GCP labs and a 12-member team that shipped 8 applications." src="assets/receipts-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/numbers-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/numbers-light.svg">
+  <img alt="By the numbers: 2 production systems owned end to end; under 5 minutes from push to live; 0 failed requests during rolling deploys; 675+ automated tests gate every release; 0 long-lived AWS keys; 1 named human approves every automated fix; 27× faster than realtime transcription on a CPU; 25+ GCP labs run." src="assets/numbers-dark.svg" width="100%">
 </picture>
 
 <br><br>
@@ -29,67 +35,69 @@ Final-year B.Tech CSE student and DevOps/SRE intern who owns **two production sy
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/section-work-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/section-work-light.svg">
-  <img alt="01 — Selected work" src="assets/section-work-dark.svg" width="100%">
+  <img alt="02 — Selected work" src="assets/section-work-dark.svg" width="100%">
 </picture>
 
-### [Aegis ↗](https://github.com/underratedgitter/Aegis)
-<sup>`2026` &nbsp;·&nbsp; EVIDENCE-FIRST SRE INCIDENT-RESPONSE COPILOT</sup>
-
-Watches a checkout-and-inventory service pair, correlates threshold alerts and z-score anomalies into **one root-caused incident**, investigates it against real metrics, logs and runbooks, then proposes a bounded fix that a named human must approve. Chaos injection and MTTR tracking prove the loop end to end, and it runs fully offline with no API key.
-
-`Python` `FastAPI` `Prometheus` `Grafana` `Loki` `Promtail` `SQLite`
-
-### [CI/CD Pipeline with Docker, Kubernetes & Helm ↗](https://github.com/underratedgitter/CI-CD-Pipeline-Automation-with-Docker-Cloud-Deployment)
-<sup>`2026` &nbsp;·&nbsp; PUSH TO LIVE IN UNDER FIVE MINUTES</sup>
-
-Every image is gated on lint, Jest coverage thresholds, npm audit, and Trivy and kubeconform scans, then deployed by digest so what runs is what was scanned. A 12-object Helm chart (HPA, PDB, NetworkPolicy, ServiceMonitor) runs it on a 3-node kind cluster, where a draining readiness probe brought rollouts to **zero failed requests**. P50/P95/P99 dashboards and 11 alert rules watch it.
-
-`Docker` `Kubernetes` `Helm` `GitHub Actions` `Trivy` `Prometheus` `Grafana`
-
-### [Terraform AWS ECS Platform ↗](https://github.com/underratedgitter/terraform-aws-ecs-platform)
-<sup>`2026` &nbsp;·&nbsp; THE INFRASTRUCTURE UNDER THE PIPELINE</sup>
-
-A multi-module platform: VPC across two AZs, an ECS cluster, ALB, ECR with image scanning, and CloudWatch alarms, with state in S3 and DynamoDB locking. CI plans every pull request through GitHub OIDC, so there is **not one long-lived AWS key**; hosts enforce IMDSv2 and are reached through SSM, never SSH.
-
-`Terraform` `AWS ECS` `ALB` `VPC` `IAM` `GitHub OIDC`
-
-### [RAG Teaching Assistant ↗](https://github.com/underratedgitter/RAG-teaching-assistant)
-<sup>`2026` &nbsp;·&nbsp; LECTURE VIDEO IN, ANSWERS WITH TIMESTAMPS OUT</sup>
-
-Ask a question about a lecture recording and get the answer *and* the moment it was said, in under a second across 1,000+ chunks. Runs fully local with faster-whisper and Ollama: int8 quantization, greedy decoding and VAD take transcription to roughly **18–27× realtime on a plain CPU**.
-
-`faster-whisper` `Ollama` `CUDA` `vector search`
+<a href="https://github.com/underratedgitter/Aegis">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/work-aegis-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/work-aegis-light.svg">
+    <img alt="Aegis — an evidence-first SRE incident-response copilot. Correlates alerts and anomalies into one root-caused incident, investigates it against real metrics, logs and runbooks, and proposes a bounded fix that a named human must approve. Python, FastAPI, Prometheus, Grafana, Loki, Promtail, SQLite." src="assets/work-aegis-dark.svg" width="100%">
+  </picture>
+</a>
 
 <br>
+
+<a href="https://github.com/underratedgitter/CI-CD-Pipeline-Automation-with-Docker-Cloud-Deployment">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/work-cicd-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/work-cicd-light.svg">
+    <img alt="CI/CD Pipeline with Docker, Kubernetes and Helm — push to live in under five minutes. Lint, coverage, audit, Trivy and kubeconform gates; digest-pinned deploys; zero failed requests during rollouts. Docker, Kubernetes, Helm, GitHub Actions, Trivy, Prometheus, Grafana." src="assets/work-cicd-dark.svg" width="100%">
+  </picture>
+</a>
+
+<br>
+
+<a href="https://github.com/underratedgitter/terraform-aws-ecs-platform">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/work-terraform-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/work-terraform-light.svg">
+    <img alt="Terraform AWS ECS Platform — VPC across two AZs, ECS, ALB, ECR and CloudWatch with S3 and DynamoDB state; CI plans through GitHub OIDC with not one long-lived AWS key. Terraform, AWS ECS, ALB, VPC, IAM, GitHub OIDC." src="assets/work-terraform-dark.svg" width="100%">
+  </picture>
+</a>
+
+<br>
+
+<a href="https://github.com/underratedgitter/RAG-teaching-assistant">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/work-rag-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/work-rag-light.svg">
+    <img alt="RAG Teaching Assistant — lecture video in, answers with timestamps out, fully local with faster-whisper and Ollama at roughly 18–27× realtime on a plain CPU." src="assets/work-rag-dark.svg" width="100%">
+  </picture>
+</a>
+
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/section-experience-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/section-experience-light.svg">
-  <img alt="02 — Where I've been" src="assets/section-experience-dark.svg" width="100%">
+  <img alt="03 — Where I've been" src="assets/section-experience-dark.svg" width="100%">
 </picture>
 
-**Software & Solutions Architect Intern** — [D-Tech Solution Integrators](https://dtechindia.com), Bharuch &nbsp;<sup>`AUG 2026 — NOW`</sup>
-- Platform owner for [dtechindia.com](https://dtechindia.com) and [bccibharuch.in](https://bccibharuch.in), the BCCI membership portal: infrastructure, delivery, security and data protection.
-- Re-platformed D-Tech from Vercel serverless to a non-root, read-only Node.js container behind Nginx on a self-managed Ubuntu VPS.
-- GitHub Actions CI/CD with test and CSP gates, smoke tests and digest-pinned images; health-checked rollouts **roll back automatically**.
-- Nightly **AES-256 encrypted off-site backups** with a scripted restore, and a security baseline of hash-based CSP, strict sessions, rate limiting and HMAC-signed expiring links.
-- Built the BCCI portal to run on Vercel or Docker, Redis or Postgres, with **675+ automated tests** gating CI across its whole membership lifecycle.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/experience-light.svg">
+  <img alt="Experience: Software and Solutions Architect Intern at D-Tech Solution Integrators, Bharuch (Aug 2026 – present), platform owner for dtechindia.com and bccibharuch.in with CI/CD auto-rollback, AES-256 encrypted backups and 675+ automated tests. Open-source contributor to Bindu (Feb 2026). Cloud Event Manager, Google Developer Student Club (Aug 2023 – Jan 2024): 25+ GCP labs, 12-member team, 8 apps. B.Tech CSE, P.P. Savani University (2023 – 2027); AWS Cloud Foundations." src="assets/experience-dark.svg" width="100%">
+</picture>
 
-**Cloud Event Manager** — Google Developer Student Club, P.P. Savani University &nbsp;<sup>`AUG 2023 — JAN 2024`</sup>
-- Ran 25+ hands-on GCP labs and mentored a 12-member team that deployed 8 applications on GCP.
+<sub>Live systems: <a href="https://dtechindia.com">dtechindia.com</a> · <a href="https://bccibharuch.in">bccibharuch.in</a> &nbsp;—&nbsp; open source: <a href="https://github.com/GetBindu/Bindu">GetBindu/Bindu</a></sub>
 
-**Open source** — [Bindu](https://github.com/GetBindu/Bindu) &nbsp;<sup>`FEB 2026`</sup>
-- Merged Python error-handling fixes: broad exception catches replaced with specific types.
-
-**B.Tech, Computer Science & Engineering** — P.P. Savani University, Surat &nbsp;<sup>`2023 — 2027`</sup>
-- AWS Cloud Foundations (May 2026)
-
-<br>
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/section-toolkit-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/section-toolkit-light.svg">
-  <img alt="03 — The toolkit" src="assets/section-toolkit-dark.svg" width="100%">
+  <img alt="04 — The toolkit" src="assets/section-toolkit-dark.svg" width="100%">
 </picture>
 
 <picture>
@@ -108,4 +116,4 @@ Ask a question about a lecture recording and get the answer *and* the moment it 
   </picture>
 </a>
 
-<sub>Open to DevOps, cloud and SRE roles, including onsite in Surat — <a href="mailto:23se02cs076@gmail.com">23se02cs076@gmail.com</a>. Set in Instrument Serif and Geist Mono (SIL Open Font License).</sub>
+<p align="center"><sub>Open to DevOps, cloud and SRE roles, including onsite in Surat — <a href="mailto:23se02cs076@gmail.com">23se02cs076@gmail.com</a><br>Set in Instrument Serif and Geist Mono (SIL Open Font License)</sub></p>
