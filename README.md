@@ -1,5 +1,8 @@
 ## Hey, I'm Suraj 👋
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-thepatelsuraj.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thepatelsuraj.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thepatelsuraj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thepatelsuraj)
+
 Final-year CSE student from Gujarat. I like the behind-the-scenes stuff: shipping code safely, noticing when it breaks, and working out why.
 
 Right now I'm a software & solutions trainee at [D-Tech](https://dtechindia.com) in Bharuch, looking after two live sites, [dtechindia.com](https://dtechindia.com) and [bccibharuch.in](https://bccibharuch.in). Servers, deploys, backups, all of it.
